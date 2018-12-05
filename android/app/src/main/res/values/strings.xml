@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zimhoo</string>
+    <string name="facebook_app_id">520114238399664</string>
+    <style name="SplashScreenTheme" parent="SplashScreen_SplashTheme">
+        <item name="colorPrimaryDark">@color/status_bar_color</item>
+    </style>
+     
+</resources>
